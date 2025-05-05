@@ -2,7 +2,7 @@
 
 This project was built as part of CIS 9340 – Principles of Database Management Systems at Baruch College, using SQL, ER diagrams, normalization, and MS Access.
 
-## 📄 Project Overview
+##  Project Overview
 
 We designed a full database for a fine-dining restaurant, covering:
 
@@ -13,18 +13,18 @@ We designed a full database for a fine-dining restaurant, covering:
 - SQL DDL & DML queries
 - Implementation in MS Access
 
-## 📁 Files Included
+## Files Included
 
-- `Project Report.pdf`: Final documentation
-- `Final Database.accdb`: MS Access database with tables and queries
+- ` DBMS Project Report.pdf`: Final documentation
+- `DBMS Final Project.accdb`: MS Access database with tables and queries
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft Access
 - SQL
 - Lucidchart
 - Microsoft Word
 
-## 👩‍💻 Team
+## Team
 
-Payal Surana, Krishi Shah, Sadhvi Grover
+Payal Surana, Krishi Shah, Sadhvi Grover, Sidharth
