@@ -1,8 +1,6 @@
-# restaurant-db-project
-A database project for managing a restaurant system using SQL, ER diagrams, normalization, and MS Access.
 # Restaurant Management Database Project
 
-This project was built as part of CIS 9340 – Principles of Database Management Systems at Baruch College.
+This project was built as part of CIS 9340 – Principles of Database Management Systems at Baruch College, using SQL, ER diagrams, normalization, and MS Access.
 
 ## 📄 Project Overview
 
@@ -29,4 +27,4 @@ We designed a full database for a fine-dining restaurant, covering:
 
 ## 👩‍💻 Team
 
-Payal Surana, Krishi Shah, Sadhvi Grover, Siddarth Bhagirath
+Payal Surana, Krishi Shah, Sadhvi Grover
